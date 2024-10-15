@@ -1,4 +1,4 @@
-# brutEX.Sv1.2
+# brutEX.S_v1.2
 
 Enhanced Vulnerability Assessment Tool
 Overview
